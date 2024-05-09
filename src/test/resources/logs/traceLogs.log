@@ -1,0 +1,17 @@
+10:06:48.778 DEBUG AUTOMATION - Deleting the previous evidence...
+10:06:49.523 DEBUG AUTOMATION - Default driver CHROME
+10:06:49.524 DEBUG AUTOMATION - Init driver: CHROME
+10:06:49.524 DEBUG AUTOMATION - Headless mode? false
+10:06:59.551 DEBUG AUTOMATION - Maximizing window...
+10:06:59.880 DEBUG AUTOMATION - Clearing cookies...
+10:06:59.938 DEBUG AUTOMATION - Assigning the login cookie
+10:07:03.363 INFO  AUTOMATION - Waiting for the page ShoppingPage to be completely loaded
+10:07:03.868 INFO  AUTOMATION - ShoppingPage has loaded successfully
+10:07:03.869 INFO  AUTOMATION - Navigating to the details of the item: Sauce Labs Fleece Jacket
+10:07:04.623 INFO  AUTOMATION - Waiting for the page ItemDetailsPage to be completely loaded
+10:07:04.786 INFO  AUTOMATION - ItemDetailsPage has loaded successfully
+10:07:04.791 INFO  AUTOMATION - Clicking on 'Back to products'
+10:07:05.366 INFO  AUTOMATION - Waiting for the page ShoppingPage to be completely loaded
+10:07:05.490 INFO  AUTOMATION - ShoppingPage has loaded successfully
+10:07:05.493 INFO  AUTOMATION - Verifying the shopping page
+10:07:05.794 DEBUG AUTOMATION - Killing driver...
